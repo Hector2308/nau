@@ -1,0 +1,98 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+.parallax-img{
+	background-image: url("../img/carousel/img-2.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.parallax-groups{
+	background-image: url("../img/carousel/img-4.jpeg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.parallax-drinks-gind-club{
+	background-image: url("../img/carousel/bar-local-drinks.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 200px;
+}
+.parallax-reviews{
+	background-image: url("../img/carousel/food-locust.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+.text-review{
+	font-size: 1.5em;
+	color: #444343;
+}
+.author-review{
+	color: #444343;
+}
+label{
+	color: #444343;
+}
+.bold-text{
+	font-weight: 600;
+	color:600;
+}
+.capital{
+	font-size: 30px;
+	color: #333;
+	font-weight: 600;
+}
+.sc{
+	padding: 30px 0px;
+}
+.welcome-content{
+	background-color: rgba(0,0,0,.3);
+	padding: 15px;
+	border-radius: 2px;
+}
+.welcome-title{
+	font-size: 2.8em;
+	letter-spacing: 0.25em;
+}
+.groups-content{
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 10px;
+	padding: 50px 50px;
+	margin-top: 120px;
+	margin-bottom: 120px;
+}
+.menu-item-food{
+	font-size: 0.8em;
+}
+.review-content{
+	background-color: rgba(255,255,255,0.6);
+	border-radius: 4px;
+	padding: 5px;
+}
+.img-logo{
+	width: 155px;
+	height: 84px;
+}
+.img-logo-icon{
+	width: 125px;
+	height: 35px;
+}
+#sReviews{
+	padding: 150px 0px;
+}
+#map{
+	min-height: 200px;
+}
+hr {
+  max-width: 50px;
+  border-width: 3px;
+}
+
+hr.light {  
+  border-color: #333; 
+}
